@@ -25,6 +25,6 @@ http.createServer(function(req, res) {
         res.end("ERROR 404. No se reconoce el archivo especificado.;")
     }
 
-}).listen();
+}).listen(process.env.PORT || 3000);
 
 console.log("Servidor funcionando...")
