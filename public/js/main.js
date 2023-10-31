@@ -3,24 +3,24 @@ var lastTouch
 var projectsIndex = 0
 var projects = [
 {
-"title": "CENTRO EDUCATIVO MUNDO DE JUEGOS 1",
-"description": "Esta página web fué desarrollada para un establecimiento educativo, con el objetivo de dar a conocer su propósito, misión, visión, y otras características de la institución. 1",
+"title": "Zentrack",
+"description": "Plataforma de manejo y monitoreo de proyectos de paneles solares, por medio de éste sitio web se pueden conocer datos de clima y posición de los paneles solares, además de modificar su ángulo y poder realizar la conexión de nuevos paneles al sistema de manera simple, ayudando además a encontrar errores en la instalación.",
+"link": "https://zsntrack.solenium.co"
+},
+{
+"title": "Odoo",
+"description": "Durante mi tiempo de experiencia he automatizado diferentes procesos en el área de contaduría, simplificando así el trabajo de los contadores dentro de la empresa, éste es un desarrollo interno y por lo tanto no hay acceso a él.",
+"link": "https://www.odoo.com/documentation/16.0/"
+},
+{
+"title": "Cotizador",
+"description": "Plataforma de cotizaciones de proyectos de páneles solares, ésta plataforma simplifica el proceco de recolección de datos de los comerciales, ayudandoles además a generar una cotización bastante acertada sobre una propuesta de un proyecto de energía solar.",
 "link": "https://mundodejuegos.co"
 },
 {
-"title": "CENTRO EDUCATIVO MUNDO DE JUEGOS 2",
-"description": "Esta página web fué desarrollada para un establecimiento educativo, con el objetivo de dar a conocer su propósito, misión, visión, y otras características de la institución. 2",
-"link": "https://mundodejuegos.co"
-},
-{
-"title": "CENTRO EDUCATIVO MUNDO DE JUEGOS 3",
-"description": "Esta página web fué desarrollada para un establecimiento educativo, con el objetivo de dar a conocer su propósito, misión, visión, y otras características de la institución. 3",
-"link": "https://mundodejuegos.co"
-},
-{
-"title": "CENTRO EDUCATIVO MUNDO DE JUEGOS 4",
-"description": "Esta página web fué desarrollada para un establecimiento educativo, con el objetivo de dar a conocer su propósito, misión, visión, y otras características de la institución. 4",
-"link": "https://mundodejuegos.co"
+"title": "Sistema de gestión documental",
+"description": "Éste fué un proyecto personal que desarrollé para poner en práctica las tecnologías que había aprendido a utilizar en su momento. Es un sistema que permite el manejo de información documental de las personas en una organización.",
+"link": "https://jmcada.pythonanywhere.com/"
 }
 ]
 
