@@ -4,7 +4,7 @@ var projectsIndex = 0
 var projects = [
 {
 "title": "Zentrack",
-"description": "Plataforma de manejo y monitoreo de proyectos de paneles solares, por medio de éste sitio web se pueden conocer datos de clima y posición de los paneles solares, además de modificar su ángulo y poder realizar la conexión de nuevos paneles al sistema de manera simple, ayudando además a encontrar errores en la instalación.",
+"description": "Plataforma de manejo y monitoreo de proyectos de paneles solares, por medio de éste sitio web se pueden conocer datos de clima y posición de los paneles solares, además de modificar su ángulo y realizar la conexión de nuevos paneles al sistema fácilmente.",
 "link": "https://zsntrack.solenium.co"
 },
 {
