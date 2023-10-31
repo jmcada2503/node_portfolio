@@ -400,7 +400,7 @@ footer {
     grid-row: 2;
     display: grid;
     height: 100%;
-    grid-template-rows: repeat(10, 1fr);
+    grid-template-rows: repeat(13, 1fr);
     align-items: center;
     animation-duration: 1s;
 }
@@ -408,7 +408,7 @@ footer {
     position: relative;
     display: grid;
     height: 100%;
-    grid-template-rows: repeat(10, 1fr);
+    grid-template-rows: repeat(13, 1fr);
     align-items: center;
     justify-items: right;
     animation-duration: 1s;
